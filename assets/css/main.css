@@ -1,0 +1,123 @@
+body {
+	padding: 0;
+	margin: 0;
+	background: #f2f6e9;
+}
+
+/*navigation bar*/
+
+.nav-link, .navbar-brand {
+	color: #fff;
+	cursor: pointer;
+}
+
+.nav-link {
+	margin-right: 1em !important;
+}
+
+.nav-link:hover {
+	color: #000;
+}
+
+.navbar-collapse {
+	justify-content: flex-end;
+	text-align: center;
+}
+
+/*content*/
+
+.features {
+	padding: 1em;
+	position: relative;
+}
+
+.backdrop {
+	background-image: url('../images/header-background.png');
+	background-size: cover;
+	background-position: center;
+	position: relative;
+}
+
+.table{
+	margin-top: 2rem;
+	margin-bottom: 3rem;
+}
+
+.page-footer{
+	height: 80px;
+	padding: 40px 0;
+}	
+
+h3, h4{
+	margin-top: 1.5rem;
+	margin-bottom: 1.5rem;
+}
+
+.back {
+	background-color: rgba(245,245,245,0.9);
+	padding: 2em;
+}
+
+/*home page*/
+.card {
+	max-width: 50rem;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 6rem;
+	margin-bottom: 5rem;
+}
+
+.card-img-top {
+	width: 35%;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: 2em;
+	opacity: 0.5;
+}
+
+.card-img-top:hover{
+	opacity: 0.7;
+}
+
+#imghome{
+	width: 18rem;
+    margin-top: 3em;
+    margin-bottom: 2em;
+}
+
+.card-body {
+	padding: 2em;
+}
+
+.card-title {
+	opacity: 0.8;
+}
+/*end of home page */
+
+.breadcrumb {
+	background-color: #adc9ce;
+	padding-left: 0;
+	padding-right: 0;
+	margin-bottom: 0;
+}
+
+.container-fluid {
+	padding-left: 1em;
+	padding-right: 1em;
+}
+
+#wishlist {
+	width: 80%;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+.flex-wrapper {
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+/*home page*/
+
