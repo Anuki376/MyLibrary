@@ -1,3 +1,3 @@
 # MyLibrary
 
-MyLibrary is a web application developed using CodeIgniter to manage your personal library. 
+MyLibrary is a web application developed using CodeIgniter to store and manage your personal library. 
